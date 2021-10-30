@@ -1,0 +1,6 @@
+name: 'Drupal Assignment'
+type: module
+description: 'Provides Site location block for Drupal Assignment'
+core_version_requirement: ^8.8 || ^9
+configure: drupal_assignment.site_location_form
+package: 'Custom'

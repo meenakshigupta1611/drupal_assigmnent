@@ -1,0 +1,6 @@
+drupal_assignment.site_location_form:
+  title: 'Site Location Form'
+  route_name: drupal_assignment.site_location_form
+  description: 'Site Location Form for Location'
+  parent: system.admin_config_system
+  weight: 99
